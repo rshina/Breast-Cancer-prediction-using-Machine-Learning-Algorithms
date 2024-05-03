@@ -1,7 +1,4 @@
-# Breast-Cancer-prediction-using-Machine-Learning-Algorithms
-
-
-# Breast-Cancer-prediction-using-Machine-Learning-Algorithms
+# Breast-Cancer-prediction-using-Machine-Learning-Algorithm(SVM)
 
 
 ## Abstract:
@@ -64,9 +61,8 @@ cancer and the cells have a harmful effect
     
     *  Evaluate the output using Classification report,confusion metrix and auc curve
     
-    *  Tune the hyperparameters of SVM Classifier for better perfomance
     
-    *  Created streamlit app it allows the user to give cell information of patient and can predict whether the                   patient has cancer or not
+    *  Created streamlit app it allows the user to give cell information of patient and        can predict whether the patient has cancer or not
 
 ##  Conclusion:
 
