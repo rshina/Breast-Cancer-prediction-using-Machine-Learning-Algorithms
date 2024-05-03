@@ -1,4 +1,4 @@
-# Breast-Cancer-prediction-using-Machine-Learning-Algorithm(SVM)
+# Breast-Cancer-prediction-using-Machine-Learning-Algorithm(SVM Classifier)
 
 
 ## Abstract:
